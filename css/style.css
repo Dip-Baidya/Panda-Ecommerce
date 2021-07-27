@@ -1,0 +1,33 @@
+.panda-card{
+    border: 0px;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0px;
+}
+.catagories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.button-colour{
+    background-color: #ff136f;
+}
+.orange-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+#subscribe h6{
+    color: gray;
+}
